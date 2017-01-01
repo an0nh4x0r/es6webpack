@@ -1,0 +1,31 @@
+{
+  "name": "es6webpack",
+  "version": "1.0.0",
+  "description": "compiling es6 to es5 using webpack & babel-loader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/an0nh4x0r/es6webpack.git"
+  },
+  "keywords": [
+    "es6",
+    "webpack",
+    "babel",
+    "es5"
+  ],
+  "author": "an0nh4x0r",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/an0nh4x0r/es6webpack/issues"
+  },
+  "homepage": "https://github.com/an0nh4x0r/es6webpack#readme",
+  "devDependencies": {
+    "babel-core": "^6.21.0",
+    "babel-loader": "^6.2.10",
+    "babel-preset-env": "^1.1.4",
+    "webpack": "^1.14.0"
+  }
+}
